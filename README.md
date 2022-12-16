@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsharma7746" alt="yashsharma7746" /></a> </p>
 
+<h1>About Me</h1>
+
 - 🔭 I’m currently pursuing for **Full Stack Web Development**
 
 - 🌱 I’m currently learning **React.JS**
