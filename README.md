@@ -5,11 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsharma7746" alt="yashsharma7746" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://yashsharma7746.github.io/)
+- 🔭 I’m currently pursuing for **Full Stack Web Development**
+
+- 🌱 I’m currently learning **React.JS**
+
+- 👨‍💻 All of my projects are available at [https://yashsharma7746.github.io/](https://yashsharma7746.github.io/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **yash10072000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12KG196k9HnGYQOGpGQd5VRvXMvsZx-KX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12KG196k9HnGYQOGpGQd5VRvXMvsZx-KX/view?usp=sharing](https://drive.google.com/file/d/12KG196k9HnGYQOGpGQd5VRvXMvsZx-KX/view?usp=sharing)
+
+- ⚡ Life Fact **Love to stay fit and Workout.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
