@@ -3,7 +3,7 @@
         <tr>
           <td>
             <h3 align="center">
-              A passionate frontend developer educated from Masai School,
+              A passionate Full Stack developer educated from Masai School,
               Bengaluru. Skilled in both frontend and backend development with
               command in HTML, CSS, JavaScript, ReactJS, NextJS, and Redux. High
               Adaptable to new skills and techs. A team player with 1200 hours
