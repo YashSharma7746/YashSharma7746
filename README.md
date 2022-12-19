@@ -6,7 +6,7 @@
               A passionate Full Stack Web developer educated from Masai School,
               Bengaluru. Skilled in both frontend and backend development with
               command in HTML, CSS, JavaScript, ReactJS, NextJS, and Redux. High
-              Adaptable to new skills and techs. A team player with 1200 hours
+              Adaptable to new skills and techs. A team player with 1200+ hours
               of coding experience through Masai School.
             </h3>
           </td>
