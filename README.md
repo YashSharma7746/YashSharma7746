@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **yash10072000@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12KG196k9HnGYQOGpGQd5VRvXMvsZx-KX/view?usp=sharing)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/12KG196k9HnGYQOGpGQd5VRvXMvsZx-KX/view?usp=sharing](https://drive.google.com/file/d/1-27JqVP743yK-A3ZE3CvIRpF32OzsQfL/view?usp=sharing))
 
 - ⚡ Life Fact **Love to stay fit and Workout.**
 
